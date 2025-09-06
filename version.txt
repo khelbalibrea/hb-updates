@@ -1,2 +1,2 @@
-version=1.5.1
+version=1.5.2
 url=https://github.com/khelbalibrea/hb-updates/releases/download/latest/Happy.Buttons.exe
